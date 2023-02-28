@@ -1,0 +1,841 @@
+<plan>
+    <reading>
+        <day>1</day>
+        <passage>1 John 1</passage>
+    </reading>
+    <reading>
+        <day>2</day>
+        <passage>1 John 2</passage>
+    </reading>
+    <reading>
+        <day>3</day>
+        <passage>1 John 3</passage>
+    </reading>
+    <reading>
+        <day>4</day>
+        <passage>1 John 4</passage>
+    </reading>
+    <reading>
+        <day>5</day>
+        <passage>1 John 5</passage>
+    </reading>
+    <reading>
+        <day>6</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>7</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>8</day>
+        <passage>Matthew 1</passage>
+        <passage>Matthew 2</passage>
+    </reading>
+    <reading>
+        <day>9</day>
+        <passage>Matthew 3</passage>
+        <passage>Matthew 4</passage>
+    </reading>
+    <reading>
+        <day>10</day>
+        <passage>Matthew 5</passage>
+        <passage>Matthew 6</passage>
+    </reading>
+    <reading>
+        <day>11</day>
+        <passage>Matthew 7</passage>
+    </reading>
+    <reading>
+        <day>12</day>
+        <passage>Psalm 1</passage>
+        <passage>Proverbs 1</passage>
+    </reading>
+    <reading>
+        <day>13</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>14</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>15</day>
+        <passage>Matthew 8</passage>
+        <passage>Matthew 9</passage>
+    </reading>
+    <reading>
+        <day>16</day>
+        <passage>Matthew 10</passage>
+        <passage>Matthew 11</passage>
+    </reading>
+    <reading>
+        <day>17</day>
+        <passage>Matthew 12</passage>
+        <passage>Matthew 13</passage>
+    </reading>
+    <reading>
+        <day>18</day>
+        <passage>Matthew 14</passage>
+    </reading>
+    <reading>
+        <day>19</day>
+        <passage>Psalm 146</passage>
+        <passage>Proverbs 2</passage>
+    </reading>
+    <reading>
+        <day>20</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>21</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>22</day>
+        <passage>Matthew 15</passage>
+        <passage>Matthew 16</passage>
+    </reading>
+    <reading>
+        <day>23</day>
+        <passage>Matthew 17</passage>
+        <passage>Matthew 18</passage>
+    </reading>
+    <reading>
+        <day>24</day>
+        <passage>Matthew 19</passage>
+        <passage>Matthew 20</passage>
+    </reading>
+    <reading>
+        <day>25</day>
+        <passage>Matthew 21</passage>
+    </reading>
+    <reading>
+        <day>26</day>
+        <passage>Psalm 150</passage>
+        <passage>Proverbs 3</passage>
+    </reading>
+    <reading>
+        <day>27</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>28</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>29</day>
+        <passage>Matthew 22</passage>
+        <passage>Matthew 23</passage>
+    </reading>
+    <reading>
+        <day>30</day>
+        <passage>Matthew 24</passage>
+        <passage>Matthew 25</passage>
+    </reading>
+    <reading>
+        <day>31</day>
+        <passage>Matthew 26</passage>
+        <passage>Matthew 27</passage>
+    </reading>
+    <reading>
+        <day>32</day>
+        <passage>Matthew 28</passage>
+    </reading>
+    <reading>
+        <day>33</day>
+        <passage>Psalm 45</passage>
+        <passage>Proverbs 4</passage>
+    </reading>
+    <reading>
+        <day>34</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>35</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>36</day>
+        <passage>Romans 1</passage>
+        <passage>Romans 2</passage>
+    </reading>
+    <reading>
+        <day>37</day>
+        <passage>Romans 3</passage>
+    </reading>
+    <reading>
+        <day>38</day>
+        <passage>Romans 4</passage>
+    </reading>
+    <reading>
+        <day>39</day>
+        <passage>Romans 5</passage>
+    </reading>
+    <reading>
+        <day>40</day>
+        <passage>Psalm 14</passage>
+        <passage>Proverbs 5</passage>
+    </reading>
+    <reading>
+        <day>41</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>42</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>43</day>
+        <passage>Romans 6</passage>
+        <passage>Romans 7</passage>
+    </reading>
+    <reading>
+        <day>44</day>
+        <passage>Romans 8</passage>
+    </reading>
+    <reading>
+        <day>45</day>
+        <passage>Romans 9</passage>
+        <passage>Romans 10</passage>
+    </reading>
+    <reading>
+        <day>46</day>
+        <passage>Romans 11</passage>
+    </reading>
+    <reading>
+        <day>47</day>
+        <passage>Psalm 131</passage>
+        <passage>Proverbs 6</passage>
+    </reading>
+    <reading>
+        <day>48</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>49</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>50</day>
+        <passage>Romans 12</passage>
+    </reading>
+    <reading>
+        <day>51</day>
+        <passage>Romans 13</passage>
+    </reading>
+    <reading>
+        <day>52</day>
+        <passage>Romans 14</passage>
+    </reading>
+    <reading>
+        <day>53</day>
+        <passage>Romans 15</passage>
+        <passage>Romans 16</passage>
+    </reading>
+    <reading>
+        <day>54</day>
+        <passage>Psalm 143</passage>
+        <passage>Proverbs 7</passage>
+    </reading>
+    <reading>
+        <day>55</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>56</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>57</day>
+        <passage>Genesis 1</passage>
+        <passage>Genesis 2</passage>
+        <passage>Genesis 3</passage>
+    </reading>
+    <reading>
+        <day>58</day>
+        <passage>Genesis 4</passage>
+        <passage>Genesis 5</passage>
+        <passage>Genesis 6</passage>
+    </reading>
+    <reading>
+        <day>59</day>
+        <passage>Genesis 7</passage>
+        <passage>Genesis 8</passage>
+        <passage>Genesis 9</passage>
+    </reading>
+    <reading>
+        <day>60</day>
+        <passage>Genesis 10</passage>
+        <passage>Genesis 11</passage>
+    </reading>
+    <reading>
+        <day>61</day>
+        <passage>Psalm 131</passage>
+        <passage>Proverbs 6</passage>
+    </reading>
+    <reading>
+        <day>62</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>63</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>64</day>
+        <passage>Genesis 12</passage>
+        <passage>Genesis 13</passage>
+        <passage>Genesis 14</passage>
+        <passage>Hebrews 7</passage>
+    </reading>
+    <reading>
+        <day>65</day>
+        <passage>Genesis 15</passage>
+        <passage>Genesis 16</passage>
+        <passage>Genesis 17</passage>
+    </reading>
+    <reading>
+        <day>66</day>
+        <passage>Genesis 18</passage>
+        <passage>Genesis 19</passage>
+        <passage>Genesis 20</passage>
+    </reading>
+    <reading>
+        <day>67</day>
+        <passage>Genesis 21</passage>
+        <passage>Genesis 22</passage>
+        <passage>Genesis 23</passage>
+    </reading>
+    <reading>
+        <day>68</day>
+        <passage>Psalm 110</passage>
+        <passage>Proverbs 9</passage>
+    </reading>
+    <reading>
+        <day>69</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>70</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>71</day>
+        <passage>Genesis 24</passage>
+        <passage>Genesis 25</passage>
+        <passage>Genesis 26</passage>
+    </reading>
+    <reading>
+        <day>72</day>
+        <passage>Genesis 27</passage>
+        <passage>Genesis 28</passage>
+        <passage>Genesis 29</passage>
+    </reading>
+    <reading>
+        <day>73</day>
+        <passage>Genesis 30</passage>
+        <passage>Genesis 31</passage>
+        <passage>Genesis 32</passage>
+    </reading>
+    <reading>
+        <day>74</day>
+        <passage>Genesis 33</passage>
+        <passage>Genesis 34</passage>
+        <passage>Genesis 35</passage>
+    </reading>
+    <reading>
+        <day>75</day>
+        <passage>Genesis 36</passage>
+        <passage>Psalm 62</passage>
+        <passage>Proverbs 10</passage>
+    </reading>
+    <reading>
+        <day>76</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>77</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>78</day>
+        <passage>Genesis 37</passage>
+        <passage>Genesis 38</passage>
+        <passage>Genesis 39</passage>
+    </reading>
+    <reading>
+        <day>79</day>
+        <passage>Genesis 40</passage>
+        <passage>Genesis 41</passage>
+        <passage>Genesis 42</passage>
+    </reading>
+    <reading>
+        <day>80</day>
+        <passage>Genesis 43</passage>
+        <passage>Genesis 44</passage>
+        <passage>Genesis 45</passage>
+    </reading>
+    <reading>
+        <day>81</day>
+        <passage>Genesis 46</passage>
+        <passage>Genesis 47</passage>
+        <passage>Genesis 48</passage>
+    </reading>
+    <reading>
+        <day>82</day>
+        <passage>Genesis 49</passage>
+        <passage>Genesis 50</passage>
+        <passage>Psalm 4</passage>
+        <passage>Proverbs 11</passage>
+    </reading>
+    <reading>
+        <day>83</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>84</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>85</day>
+        <passage>John 1</passage>
+        <passage>John 2</passage>
+    </reading>
+    <reading>
+        <day>86</day>
+        <passage>John 3</passage>
+        <passage>John 4</passage>
+    </reading>
+    <reading>
+        <day>87</day>
+        <passage>John 5</passage>
+        <passage>John 6</passage>
+    </reading>
+    <reading>
+        <day>88</day>
+        <passage>John 7</passage>
+    </reading>
+    <reading>
+        <day>89</day>
+        <passage>Psalm 100</passage>
+        <passage>Proverbs 12</passage>
+    </reading>
+    <reading>
+        <day>90</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>91</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>92</day>
+        <passage>John 8</passage>
+        <passage>John 9</passage>
+    </reading>
+    <reading>
+        <day>93</day>
+        <passage>John 10</passage>
+        <passage>John 11</passage>
+    </reading>
+    <reading>
+        <day>94</day>
+        <passage>John 12</passage>
+        <passage>John 13</passage>
+    </reading>
+    <reading>
+        <day>95</day>
+        <passage>John 14</passage>
+    </reading>
+    <reading>
+        <day>96</day>
+        <passage>Psalm 69</passage>
+        <passage>Proverbs 13</passage>
+    </reading>
+    <reading>
+        <day>97</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>98</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>99</day>
+        <passage>John 15</passage>
+        <passage>John 16</passage>
+    </reading>
+    <reading>
+        <day>100</day>
+        <passage>John 17</passage>
+        <passage>John 18</passage>
+    </reading>
+    <reading>
+        <day>101</day>
+        <passage>John 19</passage>
+        <passage>John 20</passage>
+    </reading>
+    <reading>
+        <day>102</day>
+        <passage>John 21</passage>
+    </reading>
+    <reading>
+        <day>103</day>
+        <passage>Psalm 16</passage>
+        <passage>Proverbs 14</passage>
+    </reading>
+    <reading>
+        <day>104</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>105</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>106</day>
+        <passage>James 1</passage>
+    </reading>
+    <reading>
+        <day>107</day>
+        <passage>James 2</passage>
+        <passage>James 3</passage>
+    </reading>
+    <reading>
+        <day>108</day>
+        <passage>James 4</passage>
+    </reading>
+    <reading>
+        <day>109</day>
+        <passage>James 5</passage>
+    </reading>
+    <reading>
+        <day>110</day>
+        <passage>Psalm 111</passage>
+        <passage>Proverbs 15</passage>
+    </reading>
+    <reading>
+        <day>111</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>112</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>113</day>
+        <passage>Philippians 1</passage>
+    </reading>
+    <reading>
+        <day>114</day>
+        <passage>Philippians 2</passage>
+    </reading>
+    <reading>
+        <day>115</day>
+        <passage>Philippians 3</passage>
+    </reading>
+    <reading>
+        <day>116</day>
+        <passage>Philippians 4</passage>
+    </reading>
+    <reading>
+        <day>117</day>
+        <passage>Psalm 41</passage>
+        <passage>Proverbs 16</passage>
+    </reading>
+    <reading>
+        <day>118</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>119</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>120</day>
+        <passage>Exodus 1</passage>
+        <passage>Exodus 2</passage>
+        <passage>Exodus 3</passage>
+    </reading>
+    <reading>
+        <day>121</day>
+        <passage>Exodus 4</passage>
+        <passage>Exodus 5</passage>
+        <passage>Exodus 6</passage>
+    </reading>
+    <reading>
+        <day>122</day>
+        <passage>Exodus 7</passage>
+        <passage>Exodus 8</passage>
+        <passage>Exodus 9</passage>
+    </reading>
+    <reading>
+        <day>123</day>
+        <passage>Exodus 10</passage>
+        <passage>Exodus 11</passage>
+        <passage>Exodus 12</passage>
+    </reading>
+    <reading>
+        <day>124</day>
+        <passage>Psalm 77</passage>
+        <passage>Proverbs 18</passage>
+    </reading>
+    <reading>
+        <day>125</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>126</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>127</day>
+        <passage>Exodus 13</passage>
+        <passage>Exodus 14</passage>
+    </reading>
+    <reading>
+        <day>128</day>
+        <passage>Exodus 15</passage>
+        <passage>Exodus 16</passage>
+    </reading>
+    <reading>
+        <day>129</day>
+        <passage>Exodus 18</passage>
+        <passage>Exodus 17</passage>
+    </reading>
+    <reading>
+        <day>130</day>
+        <passage>Exodus 19</passage>
+        <passage>Exodus 20</passage>
+    </reading>
+    <reading>
+        <day>131</day>
+        <passage>Psalm 136</passage>
+        <passage>Proverbs 19</passage>
+    </reading>
+    <reading>
+        <day>132</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>133</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>134</day>
+        <passage>Exodus 24</passage>
+        <passage>Exodus 31</passage>
+    </reading>
+    <reading>
+        <day>135</day>
+        <passage>Exodus 32</passage>
+        <passage>Exodus 33</passage>
+    </reading>
+    <reading>
+        <day>136</day>
+        <passage>Exodus 34</passage>
+        <passage>Exodus 35</passage>
+    </reading>
+    <reading>
+        <day>137</day>
+        <passage>Exodus 36</passage>
+        <passage>Exodus 40</passage>
+    </reading>
+    <reading>
+        <day>138</day>
+        <passage>Psalm 30</passage>
+        <passage>Proverbs 20</passage>
+    </reading>
+    <reading>
+        <day>139</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>140</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>141</day>
+        <passage>1 Peter 1</passage>
+        <passage>1 Peter 2</passage>
+    </reading>
+    <reading>
+        <day>142</day>
+        <passage>1 Peter 3</passage>
+    </reading>
+    <reading>
+        <day>143</day>
+        <passage>1 Peter 4</passage>
+    </reading>
+    <reading>
+        <day>144</day>
+        <passage>1 Peter 5</passage>
+    </reading>
+    <reading>
+        <day>145</day>
+        <passage>Psalm 13</passage>
+        <passage>Proverbs 21</passage>
+    </reading>
+    <reading>
+        <day>146</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>147</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>148</day>
+        <passage>Galatians 1</passage>
+        <passage>Galatians 2</passage>
+    </reading>
+    <reading>
+        <day>149</day>
+        <passage>Galatians 3</passage>
+        <passage>Galatians 4</passage>
+    </reading>
+    <reading>
+        <day>150</day>
+        <passage>Galatians 5</passage>
+    </reading>
+    <reading>
+        <day>151</day>
+        <passage>Galatians 6</passage>
+    </reading>
+    <reading>
+        <day>152</day>
+        <passage>Psalm 5</passage>
+        <passage>Proverbs 22</passage>
+    </reading>
+    <reading>
+        <day>153</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>154</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>155</day>
+        <passage>1 Timothy 1</passage>
+        <passage>1 Timothy 2</passage>
+    </reading>
+    <reading>
+        <day>156</day>
+        <passage>1 Timothy 3</passage>
+    </reading>
+    <reading>
+        <day>157</day>
+        <passage>1 Timothy 4</passage>
+    </reading>
+    <reading>
+        <day>158</day>
+        <passage>1 Timothy 5</passage>
+        <passage>1 Timothy 6</passage>
+    </reading>
+    <reading>
+        <day>159</day>
+        <passage>Psalm 56</passage>
+        <passage>Proverbs 23</passage>
+    </reading>
+    <reading>
+        <day>160</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>161</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>162</day>
+        <passage>Leviticus 8</passage>
+    </reading>
+    <reading>
+        <day>163</day>
+        <passage>Leviticus 9</passage>
+    </reading>
+    <reading>
+        <day>164</day>
+        <passage>Leviticus 10</passage>
+    </reading>
+    <reading>
+        <day>165</day>
+        <passage>Leviticus 16</passage>
+    </reading>
+    <reading>
+        <day>166</day>
+        <passage>Psalm 15</passage>
+    </reading>
+    <reading>
+        <day>167</day>
+        <passage>Proverbs 24</passage>
+    </reading>
+    <reading>
+        <day>168</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>169</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>170</day>
+        <passage>Leviticus 19</passage>
+    </reading>
+    <reading>
+        <day>171</day>
+        <passage>Leviticus 23</passage>
+    </reading>
+    <reading>
+        <day>172</day>
+        <passage>Leviticus 25</passage>
+        <passage>Luke 4:18-21</passage>
+    </reading>
+    <reading>
+        <day>173</day>
+        <passage>Leviticus 26</passage>
+    </reading>
+    <reading>
+        <day>174</day>
+        <passage>Psalm 103</passage>
+        <passage>Proverbs 25</passage>
+    </reading>
+    <reading>
+        <day>175</day>
+        <passage>GraceDay</passage>
+    </reading>
+    <reading>
+        <day>176</day>
+        <passage>Lord'sDay</passage>
+    </reading>
+    <reading>
+        <day>177</day>
+        <passage>1 Thessalonians 1</passage>
+        <passage>1 Thessalonians 2</passage>
+    </reading>
+    <reading>
+        <day>178</day>
+        <passage>1 Thessalonians 3</passage>
+    </reading>
+    <reading>
+        <day>179</day>
+        <passage>1 Thessalonians 4</passage>
+    </reading>
+    <reading>
+        <day>180</day>
+        <passage>1 Thessalonians 5</passage>
+    </reading>
+    <reading>
+        <day>181</day>
+        <passage>Psalm 41</passage>
+    </reading>
+    <reading>
+        <day>182</day>
+        <passage>Proverbs 26</passage>
+    </reading>
+    <reading>
+        <day>183</day>
+        <passage>GraceDay</passage>
+    </reading>
+</plan>
