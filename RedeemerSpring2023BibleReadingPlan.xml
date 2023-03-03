@@ -624,22 +624,34 @@
     </reading>
     <reading>
         <day>134</day>
+        <passage>Exodus 21</passage>
+        <passage>Exodus 22</passage>
+        <passage>Exodus 23</passage>
         <passage>Exodus 24</passage>
-        <passage>Exodus 31</passage>
+        <passage>Exodus 25</passage>
     </reading>
     <reading>
         <day>135</day>
-        <passage>Exodus 32</passage>
-        <passage>Exodus 33</passage>
+        <passage>Exodus 26</passage>
+        <passage>Exodus 27</passage>
+        <passage>Exodus 28</passage>
+        <passage>Exodus 29</passage>
+        <passage>Exodus 30</passage>
     </reading>
     <reading>
         <day>136</day>
+        <passage>Exodus 31</passage>
+        <passage>Exodus 32</passage>
+        <passage>Exodus 33</passage>
         <passage>Exodus 34</passage>
         <passage>Exodus 35</passage>
     </reading>
     <reading>
         <day>137</day>
         <passage>Exodus 36</passage>
+        <passage>Exodus 37</passage>
+        <passage>Exodus 38</passage>
+        <passage>Exodus 39</passage>
         <passage>Exodus 40</passage>
     </reading>
     <reading>
@@ -749,93 +761,106 @@
     </reading>
     <reading>
         <day>162</day>
-        <passage>Leviticus 8</passage>
+        <passage>Leviticus 1</passage>
+        <passage>Leviticus 2</passage>
+        <passage>Leviticus 3</passage>
+        <passage>Leviticus 4</passage>
     </reading>
     <reading>
         <day>163</day>
-        <passage>Leviticus 9</passage>
+        <passage>Leviticus 5</passage>
+        <passage>Leviticus 6</passage>
+        <passage>Leviticus 7</passage>
+        <passage>Leviticus 8</passage>
     </reading>
     <reading>
         <day>164</day>
+        <passage>Leviticus 9</passage>
         <passage>Leviticus 10</passage>
+        <passage>Leviticus 11</passage>
+        <passage>Leviticus 12</passage>
     </reading>
     <reading>
         <day>165</day>
+        <passage>Leviticus 13</passage>
+        <passage>Leviticus 14</passage>
+        <passage>Leviticus 15</passage>
         <passage>Leviticus 16</passage>
     </reading>
     <reading>
         <day>166</day>
         <passage>Psalm 15</passage>
-    </reading>
-    <reading>
-        <day>167</day>
         <passage>Proverbs 24</passage>
     </reading>
     <reading>
-        <day>168</day>
+        <day>167</day>
         <passage>GraceDay</passage>
     </reading>
     <reading>
-        <day>169</day>
+        <day>168</day>
         <passage>Lord'sDay</passage>
     </reading>
     <reading>
-        <day>170</day>
+        <day>169</day>
+        <passage>Leviticus 17</passage>
+        <passage>Leviticus 18</passage>
         <passage>Leviticus 19</passage>
+    </reading>
+    <reading>
+        <day>170</day>
+        <passage>Leviticus 20</passage>
+        <passage>Leviticus 21</passage>
+        <passage>Leviticus 22</passage>
     </reading>
     <reading>
         <day>171</day>
         <passage>Leviticus 23</passage>
-    </reading>
-    <reading>
-        <day>172</day>
+        <passage>Leviticus 24</passage>
         <passage>Leviticus 25</passage>
         <passage>Luke 4:18-21</passage>
     </reading>
     <reading>
-        <day>173</day>
+        <day>172</day>
         <passage>Leviticus 26</passage>
+        <passage>Leviticus 27</passage>
     </reading>
     <reading>
-        <day>174</day>
+        <day>173</day>
         <passage>Psalm 103</passage>
         <passage>Proverbs 25</passage>
     </reading>
     <reading>
-        <day>175</day>
+        <day>174</day>
         <passage>GraceDay</passage>
     </reading>
     <reading>
-        <day>176</day>
+        <day>175</day>
         <passage>Lord'sDay</passage>
     </reading>
     <reading>
-        <day>177</day>
+        <day>176</day>
         <passage>1 Thessalonians 1</passage>
         <passage>1 Thessalonians 2</passage>
     </reading>
     <reading>
-        <day>178</day>
+        <day>177</day>
         <passage>1 Thessalonians 3</passage>
     </reading>
     <reading>
-        <day>179</day>
+        <day>178</day>
         <passage>1 Thessalonians 4</passage>
     </reading>
     <reading>
-        <day>180</day>
+        <day>179</day>
         <passage>1 Thessalonians 5</passage>
     </reading>
     <reading>
-        <day>181</day>
+        <day>180</day>
         <passage>Psalm 41</passage>
-    </reading>
-    <reading>
-        <day>182</day>
         <passage>Proverbs 26</passage>
     </reading>
     <reading>
-        <day>183</day>
+        <day>181</day>
         <passage>GraceDay</passage>
     </reading>
 </plan>
