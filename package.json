@@ -6,6 +6,7 @@
   "scripts": {
     "start": "npx @11ty/eleventy --serve --watch --port=8080",
     "dev": "npx @11ty/eleventy --serve --watch --incremental --port=8080",
+    "build": "npx @11ty/eleventy",
     "build-production": "NODE_ENV=production npx @11ty/eleventy"
   },
   "repository": {
