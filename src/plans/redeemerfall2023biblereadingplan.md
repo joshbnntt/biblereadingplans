@@ -1,6 +1,6 @@
 ---json
 {
-"permalink": "{{title}}.xml",
+"permalink": "{{title | slugify}}.xml",
   "layout": "BibleReadingPlan.njk",
   "tags": "readingplan",
   "title": "Redeemer Fall 2023 Bible Reading Plan",
