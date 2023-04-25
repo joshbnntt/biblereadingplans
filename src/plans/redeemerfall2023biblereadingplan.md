@@ -1,8 +1,9 @@
 ---json
+{
 "permalink": "{{title}}.xml",
   "layout": "BibleReadingPlan.njk",
-  "title": "RedeemerFall2023BibleReadingPlan",
   "tags": "readingplan",
+  "title": "RedeemerFall2023BibleReadingPlan",
   "days": [
     {
       "readings": [
@@ -35,4 +36,5 @@
       ]
     }
   ]
+}
 ---
