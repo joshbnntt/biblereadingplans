@@ -2,8 +2,8 @@
     {% for day in days %}
     <reading>
         <day>{{loop.index}}</day>
-        {% for passage in day %}
-        <passage>{{passage}}</passage>
+        {% for reading in day.readings %}
+        <passage>{{reading.passage}}</passage>
         {% endfor %}
     </reading>
     {% endfor %}

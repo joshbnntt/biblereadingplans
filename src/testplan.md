@@ -1,10 +1,11 @@
+---json
 {
 "permalink": "{{title}}.xml",
   "layout": "BibleReadingPlan.njk",
   "title": "TestPlan",
   "days": [
     {
-      "passages": [
+      "readings": [
         {
           "passage": "John 1"
         },
@@ -14,7 +15,7 @@
       ]
     },
     {
-      "passages": [
+      "readings": [
         {
           "passage": "John 3"
         },
@@ -25,3 +26,4 @@
     }
   ]
 }
+---

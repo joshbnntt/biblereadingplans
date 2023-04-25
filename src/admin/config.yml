@@ -17,6 +17,7 @@ collections:
     folder: "src"
     create: true
     format: json-frontmatter
+    frontmatter_delimiter: ["---json", "---"]
     editor: 
       preview: false
     fields:
@@ -27,8 +28,8 @@ collections:
         name: "days"
         widget: "list"
         fields:
-          - label: "Passages"
-            name: "passages"
+          - label: "Readings"
+            name: "readings"
             widget: "list"
             fields:
               - label: "Passage"
