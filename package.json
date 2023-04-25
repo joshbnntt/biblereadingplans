@@ -1,0 +1,24 @@
+{
+  "name": "biblereadingplans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --watch --incremental --port=8080",
+    "build-production": "NODE_ENV=production npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshbnntt/biblereadingplans.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshbnntt/biblereadingplans/issues"
+  },
+  "homepage": "https://github.com/joshbnntt/biblereadingplans#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
