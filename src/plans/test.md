@@ -11,6 +11,13 @@
           "passage": "Proverbs 1"
         }
       ]
+    },
+    {
+      "readings": [
+        {
+          "passage": "Proverbs 2"
+        }
+      ]
     }
   ]
 }
