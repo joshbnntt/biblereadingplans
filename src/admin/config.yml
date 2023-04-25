@@ -28,8 +28,8 @@ collections:
             name: "days"
             widget: "list"
             fields:
-              - label : "Day"
-                name: "day"
+              - label : "Passages"
+                name: "passages"
                 widget: "list"
                 fields:
                   - label: "Passage"
