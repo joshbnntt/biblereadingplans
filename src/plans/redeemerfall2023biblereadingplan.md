@@ -1,5 +1,4 @@
 ---json
-{
 "permalink": "{{title}}.xml",
   "layout": "BibleReadingPlan.njk",
   "title": "RedeemerFall2023BibleReadingPlan",
@@ -24,7 +23,16 @@
           "passage": "John 4"
         }
       ]
+    },
+    {
+      "readings": [
+        {
+          "passage": "John 5"
+        },
+        {
+          "passage": "John 6"
+        }
+      ]
     }
   ]
-}
 ---
