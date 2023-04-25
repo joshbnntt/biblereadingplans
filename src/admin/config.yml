@@ -17,7 +17,7 @@ collections:
     folder: "src/plans"
     create: true
     format: json-frontmatter
-    frontmatter_delimiter: ["---json", "---"]
+    frontmatter_delimiter: ["---json\n{", "}\n---"]
     editor: 
       preview: false
     fields:
