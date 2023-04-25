@@ -1,0 +1,28 @@
+---
+title: Reading Plans"
+layout: default
+pagination:
+    data: collections.readingplan
+    size: 1
+    alias: readingplan
+permalink: "/readingplans/{{ readingplan.data.title | slugify }}/"
+---
+
+<h1>{{ readingplan.data.title}}</h1>
+<button class="btn" >
+    <a href="{{ readingplan.url }}" >xml</a>
+</button>
+
+<section>
+
+{% for day in readingplan.data.days %}
+    <details open>
+        <summary>Day {{loop.index}}</summary>
+        <ul>
+            {% for reading in day.readings %}
+                <li>{{reading.passage}}</li>
+            {% endfor %}
+        </ul>
+    </details>
+{% endfor %}
+</section>

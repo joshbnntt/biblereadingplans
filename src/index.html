@@ -1,0 +1,12 @@
+---
+title: Bible Reading Plan
+layout: default
+---
+
+            <ul>
+                {% for plan in collections.readingplan %}
+                    <li>
+                        <a href="readingplans/{{ plan.data.title | slugify }}">{{ plan.data.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>

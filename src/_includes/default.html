@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Bible Reading Plans</title>
+        <title>{{ title }}</title>
         {# screen for mobile #}
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- include the widget -->
@@ -10,6 +10,10 @@
             body {
                 padding: 0;
                 margin: 0;
+            }
+            .site-title {
+                color: #000;
+                text-decoration: none;
             }
             .menu {
 
@@ -36,9 +40,6 @@
             .netlify-identity-menu > li {
                 padding-left: 2rem;
             }
-            {
-                # media query for mobile #
-            }
             @media (max-width: 600px) {
                 .flex {
                     flex-direction: column;
@@ -53,9 +54,40 @@
                 .menu-list {
                     padding-left: 0;
                 }
+                main {
+                    padding: 1rem;
+                }
             }
             main {
-                padding: 1rem;
+                max-width: 800px;
+                margin: 0 auto;
+            }
+            .btn {
+                background: #eee;
+                border: 1px solid #000;
+                padding: 0.5rem;
+                text-decoration: none;
+                color: #000;
+            }
+            
+            .btn > a {
+                text-decoration: none;
+                color: #000;
+            }
+            .btn:hover, .btn:hover > a {
+                background: #000;
+                color: #fff;
+            }
+            h1 {
+                size: 2rem;
+            }
+            h2,
+            summary {
+                size: 1.5rem;
+                font-weight: bold;
+            }
+            section {
+                margin-top: 2rem;
             }
         </style>
     </head>
@@ -66,9 +98,11 @@
   -->
         <nav class="menu">
             <div class="flex">
-                <h1>Bible Reading Plans</h1>
+                <h1>
+                    <a href="/" class="site-title">Bible Reading Plans</a>
+                </h1>
                 <ul class="menu-list">
-                    <li>
+                    <li class="btn">
                         <a href="/admin/">Admin</a>
                     </li>
                 </ul>
@@ -78,13 +112,7 @@
         </nav>
         <main>
 
-            <ul>
-                {% for plan in collections.readingplan %}
-                    <li>
-                        <a href="{{ plan.url }}">{{ plan.data.title }}</a>
-                    </li>
-                {% endfor %}
-            </ul>
+            {{ content | safe }}
         </main>
     </body>
 </html>

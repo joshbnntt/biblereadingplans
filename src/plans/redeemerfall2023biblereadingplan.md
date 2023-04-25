@@ -3,7 +3,7 @@
 "permalink": "{{title}}.xml",
   "layout": "BibleReadingPlan.njk",
   "tags": "readingplan",
-  "title": "RedeemerFall2023BibleReadingPlan",
+  "title": "Redeemer Fall 2023 Bible Reading Plan",
   "days": [
     {
       "readings": [
