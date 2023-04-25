@@ -2,7 +2,8 @@
 {
 "permalink": "{{title}}.xml",
   "layout": "BibleReadingPlan.njk",
-  "title": "TestPlan",
+  "title": "RedeemerFall2023BibleReadingPlan",
+  "tags": "readingplan",
   "days": [
     {
       "readings": [
