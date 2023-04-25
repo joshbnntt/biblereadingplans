@@ -14,24 +14,23 @@ local_backend: true
 collections:
   - label: "Plans"
     name: "plans"
-    folder: "src/_data"
+    folder: "src"
     create: true
+    format: json-frontmatter
     editor: 
       preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - label: "Weeks"
-        name: "weeks"
+      - { label: "Permalink", name: "permalink", widget: "hidden", default: "{{title}}.xml" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "BibleReadingPlan.njk" }
+      - label: "Days"
+        name: "days"
         widget: "list"
         fields:
-          - label: "Days"
-            name: "days"
+          - label: "Passages"
+            name: "passages"
             widget: "list"
             fields:
-              - label : "Passages"
-                name: "passages"
-                widget: "list"
-                fields:
-                  - label: "Passage"
-                    name: "passage"
-                    widget: "string"
+              - label: "Passage"
+                name: "passage"
+                widget: "string"
