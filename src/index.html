@@ -4,7 +4,10 @@ layout: default
 ---
 
             <ul>
-                {% for plan in collections.readingplan %}
+                <li>
+                    <a href="/RedeemerSpring2023BibleReadingPlan.xml">Redeemer Spring 2023 Bible Reading Plan</a>
+                </li>
+                {% for plan in collections.plans %}
                     <li>
                         <a href="readingplans/{{ plan.data.title | slugify }}">{{ plan.data.title }}</a>
                     </li>

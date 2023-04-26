@@ -23,8 +23,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Permalink", name: "permalink", widget: "hidden", default: "{{title | slugify}}.xml" }
-      - { label: "Layout", name: "layout", widget: "hidden", default: "BibleReadingPlan.njk" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "readingplan" }
       - label: "Days"
         name: "days"
         widget: "list"

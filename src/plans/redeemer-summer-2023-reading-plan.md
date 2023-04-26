@@ -1,9 +1,7 @@
 ---json
 {
 "permalink": "{{title | slugify}}.xml",
-  "layout": "BibleReadingPlan.njk",
-  "tags": "readingplan",
-  "title": "Redeemer Summer 2023 Reading Plan",
+  "title": "2023 Redeemer Summer Bible Reading Plan",
   "days": [
     {
       "readings": [
@@ -40,6 +38,9 @@
         },
         {
           "passage": "Psalm 10"
+        },
+        {
+          "passage": "Psalm 11"
         }
       ]
     }

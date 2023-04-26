@@ -1,9 +1,7 @@
 ---json
 {
 "permalink": "{{title | slugify}}.xml",
-  "layout": "BibleReadingPlan.njk",
-  "tags": "readingplan",
-  "title": "Redeemer Fall 2023 Bible Reading Plan",
+  "title": "2023 Redeemer Fall Bible Reading Plan",
   "days": [
     {
       "readings": [
