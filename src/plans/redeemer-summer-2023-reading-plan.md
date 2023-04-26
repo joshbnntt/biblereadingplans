@@ -38,6 +38,9 @@
         },
         {
           "passage": "Psalm 10"
+        },
+        {
+          "passage": "Psalm 11"
         }
       ]
     }

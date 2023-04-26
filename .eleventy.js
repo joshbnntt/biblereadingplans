@@ -7,10 +7,10 @@ module.exports = function(eleventyConfig) {
     
     eleventyConfig.addCollection("plans", function(collectionApi) {
         return collectionApi.getFilteredByTags("readingplan").sort((a, b) => {
-            return a.data.title - b.data.title;
+            return  b.data.title - a.data.title;
       });
     });
-    
+
     return {
         dir: {
             input: "src",
