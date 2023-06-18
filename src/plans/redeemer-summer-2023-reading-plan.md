@@ -40,6 +40,13 @@
           "passage": "Psalm 10"
         }
       ]
+    },
+    {
+      "readings": [
+        {
+          "passage": "Psalm 11"
+        }
+      ]
     }
   ]
 }
